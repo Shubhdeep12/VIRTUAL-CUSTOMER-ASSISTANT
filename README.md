@@ -1,0 +1,2 @@
+# VIRTUAL-CUSTOMER-ASSISTANT
+This is a product which is designed in hospital domain only. This is basically the idea of how to make our hospitals automated. It is designed to overcome some major problems faced by common people in government Hospitals. As we know other countries are growing faster and faster in every field, so we come up with this idea which will support our country to maintain the pace for development
